@@ -1,4 +1,0 @@
-MyApplication
-=============
-
-Pretentious Punditry
